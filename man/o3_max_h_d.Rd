@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_h_d}
 \alias{o3_max_h_d}
-\title{Tibble con i dati di o3_max_h_d per 4 stazioni della regione PABOLZANO}
+\title{Tibble con i dati di o3_max_h_d per 5 stazioni della regione PABOLZANO}
 \format{
-Un tibble con 8 colonne e 10952 osservazioni
+Un tibble con 8 colonne e 11499 osservazioni
 }
 \usage{
 o3_max_h_d
 }
 \description{
-Tibble con i dati di o3_max_h_d per 4 stazioni della regione PABOLZANO
+Tibble con i dati di o3_max_h_d per 5 stazioni della regione PABOLZANO
 }
 \keyword{datasets}
